@@ -43,5 +43,5 @@ def calculator():
 
         print()  # blank line for readability
 
-# Run the calculator
+
 calculator()
