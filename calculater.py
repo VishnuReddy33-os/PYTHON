@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def add(x, y):
     return x + y
 
@@ -45,3 +46,6 @@ def calculator():
 
 
 calculator()
+=======
+
+>>>>>>> 55dd49e3cfc4cd96f1f0da06561e6f7c14df677d
