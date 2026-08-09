@@ -1,4 +1,4 @@
-```python
+```pytho
 # Multiplication Table: 12 Different Ways
 
 n = 5
